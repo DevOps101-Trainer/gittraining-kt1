@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello devops
 hello devops
 hello devops
@@ -13,3 +14,12 @@ hello devops
 hello devops
 hello devops
 hello devops
+=======
+Hello world
+Hello world
+Hello world and hello devops
+Hello world
+Hello world
+Hello world
+Hello world
+>>>>>>> feature2
